@@ -8,19 +8,19 @@ Saman Server is a Persian RTL hosting platform interface designed with a focus o
 
 ### Desktop
 
-![Home Desktop](./public/screenshots/homepage-desktop.png)
+![Home Desktop](./public/screenshots/Screenshot-homepage-desktop.png)
 
 ### Mobile
 
-![Home Mobile](./public/screenshots/homepage-mobile.png)
+![Home Mobile](./public/screenshots/Screenshot-homepage-mobile.png)
 
 ### Login & Signup Desktop
 
-![Login Desktop](./public/screenshots/Authpage-desktop.png)
+![Login Desktop](./public/screenshots/Screenshot-Authpage-desktop.png)
 
 ### Login & Signup Mobile
 
-![Login Mobile](./public/screenshots/Authpage-mobile.png)
+![Login Mobile](./public/screenshots/Screenshot-Authpage-mobile.png)
 
 ## Features
 
